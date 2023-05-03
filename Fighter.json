@@ -1,0 +1,23 @@
+[{
+    "name": "Ryu",
+    "alter": 60,
+    "Moves": ["Hadoken", "Shoryuken"],
+    "Adresse": {
+        "Land": "Japan",
+        "Stadt": "Kyoto"  
+    }
+},
+{
+    "name": "Ken",
+    "alter": 58,
+    "kann_Hadoken": true 
+
+},
+
+{
+    "name": "Sagat",
+    "alter": null,
+    "kann_Hadoken": false
+
+}
+]
